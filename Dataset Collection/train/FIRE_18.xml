@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fire</folder>
+	<filename>FIRE_18.jpg</filename>
+	<path>E:\PROJECT FILES\temprory\forest_fire\Training and Validation\fire\FIRE_18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FIRE</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>361</ymin>
+			<xmax>628</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>
